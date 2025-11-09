@@ -1,5 +1,4 @@
 # Assignment-5-LinuxOS-and-LSP-
-# Assignment5_SystemMaintenance_UsingBashScript
 # 🧰 System Maintenance Suite
 
 ## Overview
